@@ -1,0 +1,1 @@
+Este repositório contém um aplicativo Android que permite consultar endereços com base em CEPs, utilizando a API ViaCEP. Desenvolvido no Android Studio, o app realiza requisições HTTP e exibe informações como logradouro, bairro e cidade. Inclui tratamento de erros e possui uma interface simples e eficiente.
